@@ -6,7 +6,6 @@ public class Test {
         System.out.println("测试");
         System.out.println("MASTER");
         System.out.println("dev");
-        System.out.println("push");
-        System.out.println("push1");
+
     }
 }
