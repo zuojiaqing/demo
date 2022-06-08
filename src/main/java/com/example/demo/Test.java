@@ -7,5 +7,6 @@ public class Test {
         System.out.println("MASTER");
         System.out.println("dev");
         System.out.println("push");
+        System.out.println("push1");
     }
 }
